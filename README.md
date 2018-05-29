@@ -1,2 +1,2 @@
 # Mindful_Snaps
-Creating my onlin epresence on GitHub pages
+Creating my online presence on GitHub pages
